@@ -8,5 +8,4 @@ In the pages that follow, you'll learn about the importance of understanding the
 
 Whether you're looking to improve your personal decision-making skills or foster a culture of effective decision-making within your organization, "The Power of Decision-Making" offers valuable insights and strategies for success. By mastering the art of decision-making, you can become a more effective and successful leader, entrepreneur, or employee. Let's get started on this journey together!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
