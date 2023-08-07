@@ -27,4 +27,4 @@ Organizations can incorporate ethics into their decision-making processes by dev
 Conclusion
 ----------
 
-Making ethical decisions is crucial for organizations to maintain their reputation and establish trust with stakeholders. By understanding ethical considerations and addressing potential risks and consequences, organizations can make informed decisions that prioritize social and environmental responsibility. In the next chapter, we will explore how organizations can use decision-making tools and frameworks to evaluate potential risks and consequences associated with a decision.
+Making ethical decisions is crucial for organizations to maintain their reputation and establish trust with stakeholders. By understanding ethical considerations and addressing potential risks and consequences, organizations can make informed decisions that prioritize social and environmental responsibility.

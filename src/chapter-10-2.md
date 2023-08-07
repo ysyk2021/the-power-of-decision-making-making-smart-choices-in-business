@@ -21,4 +21,4 @@ In addition to considering stakeholder interests, ethical decision-making also i
 Conclusion
 ----------
 
-Effective decision-making involves more than just analyzing data and considering stakeholder interests. It also requires a sense of social responsibility and respect for ethical principles and values. By balancing stakeholder interests and social responsibility, organizations can make informed and responsible decisions that align with their values and contribute to the greater good. In the next chapter, we will provide practical guidance on implementing ethical decision-making frameworks in organizations.
+Effective decision-making involves more than just analyzing data and considering stakeholder interests. It also requires a sense of social responsibility and respect for ethical principles and values. By balancing stakeholder interests and social responsibility, organizations can make informed and responsible decisions that align with their values and contribute to the greater good.
