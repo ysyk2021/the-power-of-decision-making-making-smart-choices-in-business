@@ -29,7 +29,6 @@
   - [Common Obstacles to Effective Decision-Making](chapter-8-1.md)
   - [Strategies for Overcoming Challenges](chapter-8-2.md)
 - [Chapter 9: Case Studies of Successful Decision-Making](chapter-9.md)
-  - [Real-life Examples of Companies and Leaders who have Made Smart Choices through Effective Decision-Making](chapter-9-1.md)
 - [Chapter 10: Ethical Considerations in Decision-Making](chapter-10.md)
   - [Understanding Ethical Guidelines and Standards](chapter-10-1.md)
   - [Balancing Stakeholder Interests and Social Responsibility](chapter-10-2.md)
