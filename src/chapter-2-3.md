@@ -1,5 +1,3 @@
-Common Myths About Decision-Making
-===========================================
 
 In the journey towards happiness, achieving dreams, and finding greater satisfaction, decision-making is a crucial skill to master. However, there are several common myths surrounding decision-making that can hinder our ability to make effective choices. This chapter explores these myths and provides insights to debunk them.
 

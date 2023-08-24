@@ -1,5 +1,3 @@
-Chapter 6: Implementing Decision-Making Tools and Frameworks
-============================================================
 
 In this chapter, we will explore various decision-making tools and frameworks that can be used to make informed and effective decisions in a business context.
 

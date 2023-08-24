@@ -1,5 +1,3 @@
-Chapter 8: Overcoming Obstacles to Effective Decision-Making
-============================================================
 
 In this chapter, we will explore common obstacles that can hinder effective decision-making and strategies for overcoming these challenges.
 

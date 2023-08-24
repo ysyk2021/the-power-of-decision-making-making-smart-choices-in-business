@@ -1,5 +1,3 @@
-Routine and Non-Routine Decisions
-==========================================
 
 In the pursuit of happiness, achieving dreams, and realizing aspirations for greater satisfaction, individuals encounter both routine and non-routine decisions. This chapter explores the characteristics and importance of both types of decisions in the goal-setting process.
 

@@ -1,5 +1,3 @@
-Final Thoughts on the Power of Decision-Making for Making Smart Choices in Business
-===========================================================================================================
 
 In this book, we have explored the power of decision-making in business. We discussed the importance of making smart choices, the decision-making process and its different stages, the role of data and analysis in decision-making, and the factors that can impact decision-making.
 

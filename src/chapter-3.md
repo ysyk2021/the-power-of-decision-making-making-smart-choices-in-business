@@ -1,5 +1,3 @@
-Chapter 3: Types of Decisions in Business
-=========================================
 
 In this chapter, we will explore the different types of decisions in business and how they impact organizational success.
 

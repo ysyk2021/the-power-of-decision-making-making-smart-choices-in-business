@@ -1,5 +1,3 @@
-Recap of Key Points
-===========================================
 
 In this book, we explored various decision-making tools and frameworks that can help organizations make informed and effective decisions. From analyzing data and identifying objectives to evaluating potential risks and ethical considerations, these tools can improve an organization's ability to achieve its goals and objectives.
 

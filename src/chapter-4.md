@@ -1,5 +1,3 @@
-Chapter 4: Factors Affecting Decision-Making
-============================================
 
 In this chapter, we will discuss several factors that can affect decision-making in business. These include cognitive biases and heuristics, emotional intelligence and intuition, and environmental and organizational factors.
 

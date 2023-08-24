@@ -1,5 +1,3 @@
-Importance of Decision-Making
-======================================
 
 Decision-making plays a pivotal role in the process of goal setting for happiness, achieving dreams, and aspirations for greater satisfaction. This chapter explores the significance of effective decision-making and its impact on personal growth and success.
 

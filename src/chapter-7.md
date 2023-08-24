@@ -1,5 +1,3 @@
-Chapter 7: Measuring Success in Decision-Making
-===============================================
 
 In this chapter, we will discuss the importance of measuring success in decision-making and explore different methods for evaluating the effectiveness of our decisions.
 

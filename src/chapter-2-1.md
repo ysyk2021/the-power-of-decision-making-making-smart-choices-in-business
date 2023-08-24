@@ -1,5 +1,3 @@
-Definition of Decision-Making
-======================================
 
 In the pursuit of happiness, achieving dreams, and finding greater satisfaction, decision-making plays a pivotal role. This chapter explores the definition of decision-making and provides insights into its importance and various approaches.
 

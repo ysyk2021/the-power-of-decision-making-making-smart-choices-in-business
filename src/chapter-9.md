@@ -1,5 +1,3 @@
-Chapter 9: Case Studies of Successful Decision-Making
-=====================================================
 
 In this chapter, we will review real-life examples of companies and leaders who have made smart choices through effective decision-making. These case studies demonstrate how decision-making techniques can be applied in practice to achieve positive outcomes.
 

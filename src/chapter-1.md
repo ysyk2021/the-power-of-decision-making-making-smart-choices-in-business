@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In this chapter, we will introduce the book "The Power of Decision-Making: Making Smart Choices in Business" and provide an overview of its content.
 

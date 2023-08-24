@@ -1,5 +1,3 @@
-Chapter 2: Understanding Decision-Making
-========================================
 
 In this chapter, we will explore the concept of decision-making and provide insight into its importance in business.
 

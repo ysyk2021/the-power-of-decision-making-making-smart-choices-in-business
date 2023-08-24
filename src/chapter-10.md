@@ -1,5 +1,3 @@
-Chapter 10: Ethical Considerations in Decision-Making
-=====================================================
 
 In this chapter, we will explore the importance of ethical considerations in the decision-making process. Making ethical decisions is not only important for maintaining integrity and values, but it also impacts various stakeholders and the broader society.
 

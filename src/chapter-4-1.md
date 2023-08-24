@@ -1,5 +1,3 @@
-Cognitive Biases and Heuristics
-========================================
 
 Cognitive biases and heuristics profoundly influence our decision-making and goal-setting processes. Understanding these biases and heuristics is crucial for effectively setting and achieving goals that lead to greater happiness, fulfillment, and satisfaction. This chapter explores common cognitive biases and heuristics and provides strategies to overcome their potential pitfalls.
 

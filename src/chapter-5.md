@@ -1,5 +1,3 @@
-Chapter 5: Techniques for Effective Decision-Making
-===================================================
 
 In this chapter, we will discuss techniques for effective decision-making. We will cover analytical and rational decision-making models, creative and intuitive decision-making approaches, and collaborative and participatory decision-making processes.
 

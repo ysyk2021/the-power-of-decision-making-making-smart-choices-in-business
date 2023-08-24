@@ -1,5 +1,3 @@
-Qualitative and Quantitative Methods for Evaluation
-============================================================
 
 Evaluating progress and outcomes is vital in goal setting for happiness, achieving dreams, and aspirations for greater satisfaction. This chapter explores the significance of utilizing both qualitative and quantitative methods for effective evaluation.
 

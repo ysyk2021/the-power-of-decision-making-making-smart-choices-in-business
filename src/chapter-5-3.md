@@ -1,5 +1,3 @@
-Collaborative and Participatory Decision-Making Processes
-==================================================================
 
 Collaborative and participatory decision-making processes have the potential to greatly enhance the effectiveness and impact of goal setting for happiness, achieving dreams, and aspirations for greater satisfaction. This chapter delves into the importance of involving others in decision-making and explores the benefits it offers.
 
