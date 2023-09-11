@@ -35,3 +35,4 @@
   - [Addressing Potential Risks and Consequences of Decisions](chapter-10-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

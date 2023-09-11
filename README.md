@@ -1,3 +1,6 @@
+# The Power of Decision-Making: Making Smart Choices in Business
+
+Book Link: [https://zhengpublishing.com/the-power-of-decision-making-making-smart-choices-in-business/](https://zhengpublishing.com/the-power-of-decision-making-making-smart-choices-in-business/)
 
 In business, every decision counts. Whether you're a CEO making strategic decisions for your company, a manager making operational decisions for your team, or an employee making daily choices that impact your work, the power of decision-making can make or break your success.
 
